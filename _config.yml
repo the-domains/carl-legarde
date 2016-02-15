@@ -1,7 +1,7 @@
 name: Carl Legarde
 favicon: null
-layout_spectrum: 0.3235293976031244
-typography_spectrum: 0.7346080387942493
+layout_spectrum: 0.24616
+typography_spectrum: 0.2509
 title: Beta Test X
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#e6f0f1'
+    - '#81a1d0'
+    - '#576474'
+    - '#ad4000'
   brandStrength: 0.506941898027435
   lightness: 0.2908532749861479
   saturation: 0.8028084828983992
-  rhythmicContrast: 0.5616279281675816
+  rhythmicContrast: 0.5
 purpose: []
