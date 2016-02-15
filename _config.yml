@@ -1,7 +1,7 @@
 name: Carl Legarde
 favicon: null
-layout_spectrum: 0.24616
-typography_spectrum: 0.2509
+layout_spectrum: 0.50241
+typography_spectrum: 0.23289
 title: Beta Tanks
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#e6f0f1'
-    - '#81a1d0'
-    - '#576474'
-    - '#ad4000'
-  brandStrength: 0.506941898027435
-  lightness: 0.2908532749861479
-  saturation: 0.8028084828983992
+    - '#add7ff'
+    - '#bc7500'
+    - '#0a1600'
+    - '#feb800'
+    - '#b70200'
+  brandStrength: 0.3125
+  lightness: 0.5
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose: []
