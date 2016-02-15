@@ -23,7 +23,7 @@ color:
     - '#fec400'
     - '#6c7177'
   brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.3125
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
